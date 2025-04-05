@@ -2,6 +2,7 @@
   "name": "ckportfolio-website",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://chetankerhalkar.github.io/ckportfolio-website",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.0",

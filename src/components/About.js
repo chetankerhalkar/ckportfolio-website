@@ -8,7 +8,7 @@ function About() {
         About Me
       </Typography>
       <Typography>
-        I am a **Technology Director** with 16+ years of experience specializing in AI, Cloud, and Software Development.
+        I am a **Technology Director** with 17+ years of experience specializing in AI, Cloud, and Software Development.
       </Typography>
       <Typography>
         **Expertise:** Azure AI, Generative AI, Microservices, ReactJS, .NET, Node.js.
